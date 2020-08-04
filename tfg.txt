@@ -1,0 +1,37 @@
+Micro Frontends: definir la primera vez que aparezca con nota al pie de pagina o referencia
+microfrontends: explicar que son aplicaciones
+Ecosistema / Conjunto de tecnicas y herramientas para el desarrollo web y unas pautas y una herramienta de apoyo, en adelante ecosistema
+
+seleccion de herramientas y tecnicas, pautas para utilziarlas y desarrollo de una herramienta que ayuda en su aplicación (resumen, objetivos, x)
+
+enmarcar figuras con fondo blanco
+
+utilizar framework en lugar de herramientas cuando hablamos de librerias/frameworks
+
+en lugar de repetir referencias especificarlas al principio de la sección
+
+4 -> propuesta de ecosistema para desarrollo web
+	-> recomendaciones de arquitectura y herramientas
+	
+
+en el seguiente capitulo se comenta la herramienta 
+
+5 -> Herramienta de apollo para el ecosistema
+
+Requisitos -> diagrama de casos de uso äsociado a requisitos funcionales, describirlos en la tabla de req funcionales
+
+Diseño: diagrama de componentes UML / invocaciones. Mejor introducción, concepto herramienta
+
+Pruebas -> 
+
+
+3.4 Analisis del problema -> conslusiones del estado del arte
+
+-> seleccion de herramientas, pautas, desarrollo de herramienta
+
+2-> estado del arte
+	-> tecnologias
+	-> arquitecturas
+	-> conclusiones del estado del arte
+
+	comparar con herramientas existentes (SSPA, NGX)

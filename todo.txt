@@ -14,8 +14,9 @@
 - Introducción cap 2.2 X
 - Añadir comentario sobre alternativas 2.3.2 X
 - Mejorar intro cap 3 X
-- Cambiar intro cap 4
-- Diagrama casos de uso cap 4
+- Cambiar intro cap 4 X
+- Diagrama casos de uso cap 4 X
+- Diagrama componentes cap 4 X
 - ecosistema
 
 - He mantenido el uso de "monolitico" pero modificando la explicación del concepto para que quede más claro, de todas formas se trata de un término estándar.

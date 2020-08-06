@@ -1,0 +1,22 @@
+- Revisar correcciones
+- Agradecimientos
+- Dedicatoria
+- Revisar referencias a capitulos
+- Saltos de página
+- Actualizar indice
+- Actualizar tabla figuras
+- Actualizar referencias
+- Actualizar estructura
+
+- Borde Figuras X
+- Revisar referencais X
+- Introduccion cap 2 X
+- Introducción cap 2.2 X
+- Añadir comentario sobre alternativas 2.3.2 X
+- Mejorar intro cap 3 X
+- Cambiar intro cap 4
+- Diagrama casos de uso cap 4
+- ecosistema
+
+- He mantenido el uso de "monolitico" pero modificando la explicación del concepto para que quede más claro, de todas formas se trata de un término estándar.
+- He mantenido el capitulo 2.3.2 Alternativas porque al añadir comentarios respecto a otros ecosistemas creo que tiene el tamaño suficiente para ser una sección.

@@ -30,6 +30,6 @@ Hola Patricio, he realizado las correcciones, te las pongo en una lista con las 
 - He añadido un diagrama de componentes de la herramienta al capitulo 4.2 (antes 5.2) (53)
 - He modificado el capitulo analisis del caso de estudio por requisitos (64)
 - He añadido diagrama de componentes al diseño del caso de uso (65)
-- He modificado la evaluación y las conclusiones para hablar del ecosistema y la herramienta
+- He modificado la evaluación y las conclusiones para hablar del ecosistema y la herramienta (78, 83)
 
 En otro orden de cosas, he añadido bordes en las figuras que me ha parecido oportuno, he revisado las referencias a capítulos y figuras al cambiar su numeración, intentando que ningún parrafo quede separado entre páginas y actualizado todos los índices del trabajo.

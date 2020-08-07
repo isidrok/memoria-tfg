@@ -19,5 +19,32 @@
 - Diagrama componentes cap 4 X
 - ecosistema
 
+- Finalmente he hecho una mezcla entre agradecimiento/dedicatoria
+- Modificar resumen para hablar del ecosistema y la herramienta y definir a grandes rasgos Micro Frontend
+- Modificar gráfico del 1.1 para que se entienda mejor
+- Poner frases citadas entre comillas
+- Hablar del ecosistema y la herramienta en la introducción
+- Hablar del ecosistema en los objetivos
+- Modificar título e introducción capítulo 2 para que sea el estado del arte
+- Modificar título e introducción capítulo 2.1 para que sea el de tecnologias para desarrollo web
+- Añadir referencias a figuras en el texto en el capitulo 2.1.1
+- Añadir referencia a ventajas de desarrollo orientado a componentes (2.1.2)
+- Cambiar tecnologías populares/ herramientas por frameworks
+- Explicar mejor la figura 2.7
+- Añadir referencia sobre caracteristicas de empaquetadores
+- En el apartado de CSS Modules he modificado el tercer párrafo para ilustrar mejor las formas de cargar css
+- Modificar título e introducción capítulo 2.2 para que sea desarrollo de aplicaciones web
 - He mantenido el uso de "monolitico" pero modificando la explicación del concepto para que quede más claro, de todas formas se trata de un término estándar.
+- Escribir "gran bola de lodo" entre comillas por tratarse de una cita.
+- Modificar qué son los micro frontends poner mejor las referencias.
+- Micro Frontends en mayúscula únicamente al hacer referencia al estilo arquitectónico, explciando que en minúscula hace referencia a las aplicaciones.
+- Modificar análisis del problema por conclusiones del estado del arte
+- En la página 41, en el punto arquitectura predominantemente monolítica, no se que hacer con las dos líenas que se me quedan en la siguiente página.
 - He mantenido el capitulo 2.3.2 Alternativas porque al añadir comentarios respecto a otros ecosistemas creo que tiene el tamaño suficiente para ser una sección.
+- Modificar título e introducción capítulo 3 para que sea Propuesta de ecosistema para desarrollo web.
+- He eliminado el capítulo 4.2 "paridad funcional" y he includio su contenido en el de propuesta de ecosistema.
+- Modificar título e introducción capitulo 4 para que sea Herramienta de apoyo para el ecosistema. Durante este capitulo siempre se habla ahora de "la herramienta"
+- Incluido diagrama de casos de uso en el capitulo 4.1, la tabla de requisitos funcionales ahora describe los casos de uso
+- Añadido diagrama de componentes de la herramienta al capitulo 4.2
+- Modificado capitulo analisis de casod e estudio por requisitos
+- Añadido diagrama de componentes al diseño del caso de uso
